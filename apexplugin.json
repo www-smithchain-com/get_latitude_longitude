@@ -39,7 +39,7 @@
             "19.2.0"
          ],
          "plugin":{
-            "internalName":"GET_LATITUDE_LONGITUDE",
+            "internalName":"GET.LATITUDE.LONGITUDE",
             "type":"Dynamic Action",
             "demo":"https://apex.oracle.com/pls/apex/f?p=65355:3"
          }
