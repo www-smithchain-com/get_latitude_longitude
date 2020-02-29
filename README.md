@@ -7,9 +7,9 @@ This plugin is use to display a current location Latitude and Longitude.After in
 
 ##Preview
 
-https://github.com/smithchain/get_latitude_longitude/blob/master/preview.gif
+https://github.com/www-smithchain-com/get_latitude_longitude/blob/master/preview.gif
 
-![Screenshot](https://raw.githubusercontent.com/smithchain/get_latitude_longitude/master/preview.gif)
+![Screenshot](https://raw.githubusercontent.com/www-smithchain-com/get_latitude_longitude/master/preview.gif)
 
 ## About
 twitter: [@Smith121266](https://twitter.com/Smith121266)  
