@@ -32,8 +32,7 @@
       "plugin" : {
         "internalName" : "GET.LATITUDE.LONGITUDE",
         "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=65355:3",
-        "previewImage" : "https://raw.githubusercontent.com/www-smithchain-com/get_latitude_longitude/master/preview.gif"
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=65355:3"
       }
     }
   }
