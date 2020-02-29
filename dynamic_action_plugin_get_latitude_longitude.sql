@@ -26,7 +26,7 @@ begin
 wwv_flow_api.create_plugin(
  p_id=>wwv_flow_api.id(21898200716613436)
 ,p_plugin_type=>'DYNAMIC ACTION'
-,p_name=>'GET LATITUDE_LONGITUDE'
+,p_name=>'GET_LATITUDE_LONGITUDE'
 ,p_display_name=>'GET_LATITUDE_LONGITUDE'
 ,p_category=>'EXECUTE'
 ,p_supported_ui_types=>'DESKTOP'
