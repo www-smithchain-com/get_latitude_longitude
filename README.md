@@ -5,7 +5,7 @@ This plugin is use to display a current location Latitude and Longitude.After in
 ### Demo
 [Find a demo here](https://apex.oracle.com/pls/apex/f?p=65355:3)
 
-##Preview
+## Preview
 
 https://github.com/www-smithchain-com/get_latitude_longitude/blob/master/preview.gif
 
