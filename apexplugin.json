@@ -1,17 +1,13 @@
 {
    "name":"Get Latitude Longitude",
    "version":"1.2.0",
-   "description":"This plugin will automatically get your current location Latitude and Longitude after installation, You must have create two page Items and Dynamic action on Page load further choose both item in affected elements item.",
-   "keywords":[
+   "description":"This plugin will automatically get your current location Latitude and Longitude after installation",
+      "keywords":[
       "Latitude",
       "Longitude",
       "oracle",
       "apex",
-      "Google",
-      "Map",
-      "Get Latitude Longitude",
-      "Vikas",
-      "Latitude-Longitude",
+      "Map",          
       "Latitude and Longitude",
       "Geolocation"
    ],
@@ -25,14 +21,13 @@
       "type":"git",
       "url":"https://github.com/www-smithchain-com/get_latitude_longitude.git"
    },
-   "oracle":{
+    "oracle":{
       "versions":[
          "11.2.0.1",
          "12.1.0.1"
       ],
       "apex":{
          "versions":[
-            "5.1.2",
             "5.1.4",
             "18.1.0",
             "19.1.0",
