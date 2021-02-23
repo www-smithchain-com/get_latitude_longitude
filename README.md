@@ -3,6 +3,9 @@
 
 This plugin is use to display a current location Latitude and Longitude.After installation, User will only create two Item on any page (normal page or globle page) and then create a dynamic action on page load and select both item in affected elements item. Next the code returns the latitude and longitude value and the Code will also change the label name of both items.
 
+### Note:
+The Geolocation API will only work on secure contexts such as HTTPS. If your site is hosted on an non-secure origin (such as HTTP) the requests to get the users location latitude and longitude will not work.
+
 ### Demo
 [Find a demo here](https://apex.oracle.com/pls/apex/f?p=65355:3)
 
